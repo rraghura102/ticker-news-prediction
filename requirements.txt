@@ -1,0 +1,9 @@
+keras-core>=0.1.7
+jax
+jaxlib
+tensorflow  # for tokenizer utilities
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
