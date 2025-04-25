@@ -25,7 +25,3 @@ This code is not production-ready and is intended solely for proof-of-concept (P
 pip install -r requirements.txt
 python3 ticker_news_ai.py
 ```
-### License
-
-© 2025 Rayan Raghuram. All rights reserved.
-This project is licensed under the MIT License.
