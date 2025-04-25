@@ -1,6 +1,6 @@
 # Ticker News Prediction
 
-A Proof of Concept (POC) of a multi-input neural network built with Keras 3 and powered by the JAX backend, designed to model stock movement by combining structured OHLC (Open, High, Low, Close, Volume) price data with unstructured news headlines. It demonstrates how financial time-series and natural language inputs can be fused for predictive modeling in a clean, functional Keras architecture.
+A Proof of Concept (PoC) of a multi-input neural network built with Keras 3 and powered by the JAX backend, designed to model stock movement by combining structured OHLC (Open, High, Low, Close, Volume) price data with unstructured news headlines. It demonstrates how financial time-series and natural language inputs can be fused for predictive modeling in a clean, functional Keras architecture.
 
 ⚠️ NOTE
 This code is not production-ready and is intended solely for proof-of-concept (PoC) and demonstration purposes. It lacks production-grade features such as authentication, request limits, error handling, hardening, and full model lifecycle management.
